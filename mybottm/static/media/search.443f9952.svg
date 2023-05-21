@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icons_System_Search" data-name="Icons / System / Search" transform="translate(0 0.002)">
+    <rect id="Bounding_box" data-name="Bounding box" width="24" height="24" transform="translate(0 -0.002)" fill="none"/>
+    <path id="Path_32" data-name="Path 32" d="M11.422,4.831a5.842,5.842,0,0,1,5.935,5.73,5.842,5.842,0,0,1-5.935,5.73,5.841,5.841,0,0,1-5.934-5.73A5.841,5.841,0,0,1,11.422,4.831ZM22.3,20.3l-4.734-4.753a7.571,7.571,0,0,0,1.884-4.984,7.9,7.9,0,0,0-8.03-7.752,7.9,7.9,0,0,0-8.03,7.752,7.9,7.9,0,0,0,8.03,7.752,8.141,8.141,0,0,0,4.6-1.4l4.77,4.789a1.075,1.075,0,0,0,1.48.028A.988.988,0,0,0,22.3,20.3Z" transform="translate(-0.992 -0.408)" fill="#000"/>
+  </g>
+</svg>
